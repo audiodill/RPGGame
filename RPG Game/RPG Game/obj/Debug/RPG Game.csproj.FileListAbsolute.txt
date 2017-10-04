@@ -1,0 +1,7 @@
+C:\Users\Jesse Dill\Desktop\Personal projects\RPG Game\RPG Game\RPG Game\bin\Debug\RPG Game.exe.config
+C:\Users\Jesse Dill\Desktop\Personal projects\RPG Game\RPG Game\RPG Game\bin\Debug\RPG Game.exe
+C:\Users\Jesse Dill\Desktop\Personal projects\RPG Game\RPG Game\RPG Game\bin\Debug\RPG Game.pdb
+C:\Users\Jesse Dill\Desktop\Personal projects\RPG Game\RPG Game\RPG Game\obj\Debug\RPG Game.csprojResolveAssemblyReference.cache
+C:\Users\Jesse Dill\Desktop\Personal projects\RPG Game\RPG Game\RPG Game\obj\Debug\RPG Game.csproj.CoreCompileInputs.cache
+C:\Users\Jesse Dill\Desktop\Personal projects\RPG Game\RPG Game\RPG Game\obj\Debug\RPG Game.exe
+C:\Users\Jesse Dill\Desktop\Personal projects\RPG Game\RPG Game\RPG Game\obj\Debug\RPG Game.pdb
